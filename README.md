@@ -1,2 +1,2 @@
-# Booston-housing-value
-Housing value Prediction in Bostoon
+California-housing-value
+Housing value Prediction in California
